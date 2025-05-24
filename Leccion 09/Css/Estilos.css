@@ -1,0 +1,11 @@
+h1{
+    color: #0000FF;;
+}
+ul{
+    list-style-type :square; /* Cambia el tipo de lista a cuadrado */
+    
+}
+dt{
+    font-weight: bold; /* Cambia el peso de la fuente a negrita */
+    color: red; /* Cambia el color de la fuente a rojo */
+}

@@ -1,0 +1,31 @@
+
+h1{
+    color:darkred;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ul{
+    list-style-type: none; /* Eliminar los puntos de la lista */
+    background-color: rgb(6, 170, 224);  /* Color de fondo de la lista */
+    color:aqua; /* Color del texto de la lista */
+}
+
+li{
+    float: left; /* Hacer que los elementos de la lista floten a la izquierda */  
+    background-color:lightblue; /* Color de fondo de los elementos de la lista */
+}
+li a{
+    display: block; /* Hacer que los enlaces ocupen todo el bloque */
+    color: rgb(255, 255, 255); /* Color del texto de los enlaces */
+    text-align: center; /* Alinear el texto al centro */
+    padding: 15px;  /* Espacio interno de los enlaces */
+    text-decoration: none; /* Eliminar el subrayado de los enlaces */
+}
+
+li a:hover{
+    background-color:gray; /* Cambiar el color de fondo al pasar el ratón */
+}
+
+

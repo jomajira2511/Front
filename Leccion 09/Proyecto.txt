@@ -1,0 +1,5 @@
+Se busca hacer uso de todas las herramientas dadas hasta el momento para hacer una lista, y nos lleve a otros campos, de forma ordenada usando HTML para crear una lista <ul>
+y a su vez ordenar y darle diseño usando CSS
+
+
+
