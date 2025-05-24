@@ -1,0 +1,26 @@
+body{
+    background-color: #780000;
+
+}
+h1{
+    color: #c1121f;
+    background-color: #fdf0d5;
+    margin : 10px 30px 10px 30px;
+}
+
+a:link{
+    color: #fdf0d5;  /* color del enlace no visitado */
+    text-decoration: none; /* sin subrayado */
+}
+a:visited{
+    color: #003049; /* color del enlace visitado */
+    text-decoration: none; /* sin subrayado */
+}
+a:hover{
+    color: #fdf0d5; /* color del enlace al pasar el ratón */
+    text-decoration: underline; /* subrayado */
+}
+a:active{
+    color: #003049; /* color del enlace al hacer clic */
+    text-decoration: none; /* sin subrayado */
+}
