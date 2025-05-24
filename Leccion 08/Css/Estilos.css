@@ -1,0 +1,26 @@
+table, th, td {
+    border: 1px solid rgb(34, 12, 231); /* Color de borde */
+    border-collapse: collapse ; /* Elimina el borde de las tablas */
+    padding: 5px;
+}
+table{
+    width: 100%; /* Ancho de la tabla */
+}
+
+td{
+    text-align: center;
+}
+
+th{
+    color: red; /* Color de la fila */
+    background-color: gray; /* Color de fondo */
+    font-style: italic; /* Estilo de la fuente */
+    font-weight: bold; /* Negrita */
+    font-size: 30px; /* Tamaño de la fuente */
+}   
+caption{
+    color: rgb(98, 0, 255); /* Color del título */
+    font-size: 50px; /* Tamaño de la fuente */
+    font-weight: bold; /* Negrita */
+    
+}     
