@@ -1,0 +1,32 @@
+*{ /* Estilos que se crean para todos los elementos html  */
+    margin: 0;
+    padding: 0;
+}
+
+#tituloPrincipal{ /* Estilo para el id tituloPrincipal */
+    color:crimson;
+    text-align: center;
+    margin: 20px;
+    font-weight: bold ;
+}
+
+h2{
+    color:cornflowerblue;
+}
+
+p{
+    color :blueviolet;
+}
+
+/*clase de CSS*/
+.tarjeta{
+    border: 5px solid purple ;
+    background-color: lightcyan;
+    text-align: center;
+    margin: 10px 80px;
+    padding: 20px;
+}
+.titulo{
+    color: darkslateblue;
+    font-weight: bold;
+}
