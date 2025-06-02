@@ -1,0 +1,12 @@
+h1{
+    color: crimson;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+label{
+    color: rgb(255, 20, 20);
+    font-weight: bold;
+    font-size: 20px;
+}
