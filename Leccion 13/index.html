@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FORMULARIOS</title>
+    <link href="css/estilos.css" rel="stylesheet"/>
+<body>
+    <h1>FORMULARIOS  EN HTML </h1>
+    <hr>
+    <form >
+        <fieldset>
+            <legend> Datos de la persona </legend>
+            <label  for="Nombre"> Nombre: </label> <!--Etiqueta para el campo de texto--> 
+            <input type ="text" id ="Nombre" name="Nombre" placeholder="Ingresa Tu Nombre " required/>  <!--Campo de texto para el nombre-->
+            <br><br>
+            <label  for="Apellido"> Apellido: </label> <!--Etiqueta para el campo de texto-->
+            <input type ="text" id ="Apellido" name="Apellido" placeholder="Ingresa Tu Apellido" required/>  <!--Campo de texto para el nombre-->
+            <br><br>
+            <label for="Password"> Password:  </label>
+            <input type="password" id="Password" name="Password" placeholder="Ingresa Tu Contraseña" required/> <!--Campo de texto para la contraseña-->
+            <br><br>
+            <label for="Email"> Correo Electrónico: </label> <!--Etiqueta para el campo de texto-->
+            <input type="email" id="Email" name="Email" placeholder="Ingresa Tu Correo Electrónico" required/> <!--Campo de texto para el correo electrónico-->
+            <br><br>
+            <label for = "Edad" > Edad: </label> <!--Etiqueta para el campo de texto-->
+            <input type="number" id="Edad" name="Edad" placeholder="Ingresa Tu Edad" required/> <!--Campo de texto para la edad-->
+            <br><br>
+            <label > Genero : </label>  <!--Etiqueta para el género-->
+            <br><br>
+            <input type = "radio" id="Femenino" name = "Genero" value = "Femenino "/> <!--Botón de opción para género femenino-->
+            <label for="Femenino"> Femenino </label>
+            <br><br> 
+            <input type = "radio" id="Masculino" name = "Genero" value = "Masculino "/> <!--Botón de opción para género masculino--> 
+            <label for="Masculino"> Masculino </label>
+            <br><br>
+            <label> Genero de Peliculas Favortiras</label>
+            <br><br>
+            <input type="checkbox" id="Accion" name="GeneroPeliculas" value="Accion"/> <!--Casilla de verificación para género de películas de acción-->
+            <label for="Accion"> Acción </label>
+            <br><br>
+            <input type="checkbox" id="Comedia" name="GeneroPeliculas" value="Comedia"/> <!--Casilla de verificación para género de películas de comedia--> 
+            <label for="Comedia"> Comedia </label>
+            <br><br>
+            <label for ="autos"> Marcas de Carros favoritas</label>
+            <br><br>
+            <select id ="autos" name= "autos">
+                <option value="Toyota">Toyota</option> <!--Opción para Toyota-->
+                <option value="Ford">Ford</option> <!--Opción para Ford-->
+                <option value="Chevrolet">Chevrolet</option> <!--Opción para Chevrolet-->
+                <option value="Honda">Honda</option> <!--Opción para Honda-->
+                <option value="Nissan">Nissan</option> <!--Opción para Nissan-->
+                <option value="BMW">BMW</option> <!--Opción para BMW-->
+                <option value="Mercedes-Benz">Mercedes-Benz</option> <!--Opción para Mercedes-Benz-->
+            </select> 
+            <br><br>
+            <label for ="comentarios"> Comentarios: </label> <!--Etiqueta para el campo de texto--> <br>
+            <textarea id="comentarios" name="comentarios" rows="4" cols="50" placeholder="Escribe tus comentarios aquí..."></textarea> <!--Área de texto para comentarios-->
+            <br><br>
+            <input  type="submit" value="Enviar "/> <!--Botón de envío-->   
+            <br><br>
+            <input type="reset" value="Limpiar"/> <!--Botón de reinicio para limpiar el formulario-->
+            
+        </fieldset>
+    </form>
+
+
+    
+</body>
+</html>
