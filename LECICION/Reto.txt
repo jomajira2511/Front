@@ -1,0 +1,7 @@
+Se pide crear una página web principal que contenga tres enlaces (links). Estos enlaces deben estar comunicados entre sí, es decir, deben permitir la navegación entre las páginas correspondientes. Cada enlace llevará a su propia página individual, la cual debe contener:
+
+Imágenes.
+
+Hipervínculos (enlaces) que permitan volver a la página principal o navegar a las otras páginas.
+
+En resumen, el sitio web estará compuesto por una página principal y tres subpáginas interconectadas entre sí mediante hipervínculos e incluirán contenido visual.
