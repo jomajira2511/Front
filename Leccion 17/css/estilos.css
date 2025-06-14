@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+}
+
+/*COLORES EN CSS */
+.Rojo{
+    background-color: firebrick;
+}
+
+.Rosa{
+    background-color: hotpink;
+}
+.Amarillo{
+    background-color: gold;
+}
+.Violeta{
+    background-color: blueviolet;
+}
+
+/*ESTILOS DE BORDES EN CSS */
+.Punteado{
+    border-style: dotted;
+}
+.Discontinuo{
+    border-style: dashed;
+}
+.Solido{
+    border-style: solid;
+}
+.Doble{
+    border-style: double;
+}
+.Surco{
+    border-style: groove;
+}
+.Cresta{
+    border-style: ridge;
+}
+.Recuadro{
+    border-style: inset;
+}
