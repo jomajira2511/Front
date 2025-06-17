@@ -1,0 +1,11 @@
+E:\C# desde 0\CursoCsharp\bin\Debug\CursoCsharp.exe.config
+E:\C# desde 0\CursoCsharp\bin\Debug\CursoCsharp.exe
+E:\C# desde 0\CursoCsharp\bin\Debug\CursoCsharp.pdb
+E:\C# desde 0\CursoCsharp\obj\Debug\CursoCsharp.csproj.AssemblyReference.cache
+E:\C# desde 0\CursoCsharp\obj\Debug\CursoCsharp.Form1.resources
+E:\C# desde 0\CursoCsharp\obj\Debug\CursoCsharp.Properties.Resources.resources
+E:\C# desde 0\CursoCsharp\obj\Debug\CursoCsharp.csproj.GenerateResource.cache
+E:\C# desde 0\CursoCsharp\obj\Debug\CursoCsharp.csproj.CoreCompileInputs.cache
+E:\C# desde 0\CursoCsharp\obj\Debug\CursoCsharp.exe
+E:\C# desde 0\CursoCsharp\obj\Debug\CursoCsharp.pdb
+E:\C# desde 0\CursoCsharp\obj\Debug\CursoCsharp.OperadoresAritmeticos.FormOperadoresAritmeticos.resources
